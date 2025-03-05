@@ -92,4 +92,8 @@ attack_cooldown = 0;
 attack_max = 10; //numebr of frames before we can attack again
 stateAttack = AttackSlash;
 
+
+// TESTING THIS SHIT
+
+
 #endregion
