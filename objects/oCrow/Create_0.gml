@@ -85,7 +85,7 @@ coyoteJumpTimer = 0;
 
 #endregion
 
-//Attack
+//Attack TESTING
 #region
 
 attack_cooldown = 0;
